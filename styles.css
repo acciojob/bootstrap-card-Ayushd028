@@ -1,2 +1,24 @@
-
-/* Your CSS Code here. */
+body {
+            background-color: #f8f9fa; /* Light gray background */
+            padding: 30px;
+        }
+        .custom-header {
+            font-size: 2rem;
+            font-weight: bold;
+        }
+        .card-header {
+            background-color: #f8f9fa; /* Light gray header */
+            font-weight: bold;
+        }
+        .btn-primary {
+            background-color: #0d6efd; /* Bootstrap primary blue */
+            border: none;
+        }
+        .alert-card {
+            background-color: #dc3545; /* Red background */
+            color: white;
+            border: none;
+        }
+        .text-muted {
+            color: #6c757d !important;
+        }
